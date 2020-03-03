@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="128e4523-876e-4ab9-9077-457431cbc175" name="Default Changelist" comment="" />
+    <list default="true" id="128e4523-876e-4ab9-9077-457431cbc175" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/twohealth_parent/target/" />
     <ignored path="$PROJECT_DIR$/twohealth_parent/twohealth-pojo/target/" />
     <ignored path="$PROJECT_DIR$/twohealth_parent/twohealth_pojo/target/" />
@@ -187,6 +189,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -414,7 +422,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583245770154" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583246533184" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -611,7 +619,7 @@
       <workItem from="1583166064570" duration="11000" />
       <workItem from="1583212802503" duration="9493000" />
       <workItem from="1583238569741" duration="2304000" />
-      <workItem from="1583241453658" duration="3811000" />
+      <workItem from="1583241453658" duration="4487000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1583241081937</created>
@@ -663,7 +671,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="258200000" />
+    <option name="totallyTimeSpent" value="258876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -691,7 +699,7 @@
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49731904" weight="0.24645892" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" sideWeight="0.49865952" weight="0.32956153" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.11205674" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.6085106" />
       <window_info anchor="bottom" id="Terminal" order="15" sideWeight="0.49865952" weight="0.32956153" />
       <window_info anchor="bottom" id="JRebel Executor" order="16" sideWeight="0.6997319" side_tool="true" weight="0.32107496" />
       <window_info anchor="bottom" id="Problems" order="17" sideWeight="0.49798927" weight="0.32956153" />
@@ -754,6 +762,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
