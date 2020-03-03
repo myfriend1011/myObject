@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/twohealth.iml" filepath="$PROJECT_DIR$/.idea/twohealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twohealth_parent/twohealthApp_web/twohealthApp_web.iml" filepath="$PROJECT_DIR$/twohealth_parent/twohealthApp_web/twohealthApp_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twohealth_parent/twohealth_common/twohealth_common.iml" filepath="$PROJECT_DIR$/twohealth_parent/twohealth_common/twohealth_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twohealth_parent/twohealth_dao/twohealth_dao.iml" filepath="$PROJECT_DIR$/twohealth_parent/twohealth_dao/twohealth_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twohealth_parent/twohealth_interface/twohealth_interface.iml" filepath="$PROJECT_DIR$/twohealth_parent/twohealth_interface/twohealth_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twohealth_parent/twohealth_job/twohealth_job.iml" filepath="$PROJECT_DIR$/twohealth_parent/twohealth_job/twohealth_job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twohealth_parent/twohealth_parent.iml" filepath="$PROJECT_DIR$/twohealth_parent/twohealth_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twohealth_parent/twohealth_pojo/twohealth_pojo.iml" filepath="$PROJECT_DIR$/twohealth_parent/twohealth_pojo/twohealth_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twohealth_parent/twohealth_service/twohealth_service.iml" filepath="$PROJECT_DIR$/twohealth_parent/twohealth_service/twohealth_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twohealth_parent/twohealth_web/twohealth_web.iml" filepath="$PROJECT_DIR$/twohealth_parent/twohealth_web/twohealth_web.iml" />
+    </modules>
+  </component>
+</project>

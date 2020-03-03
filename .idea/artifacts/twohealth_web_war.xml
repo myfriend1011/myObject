@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="twohealth_web:war">
+    <output-path>$PROJECT_DIR$/twohealth_parent/twohealth_web/target</output-path>
+    <root id="archive" name="twohealth_web.war">
+      <element id="artifact" artifact-name="twohealth_web:war exploded" />
+    </root>
+  </artifact>
+</component>
