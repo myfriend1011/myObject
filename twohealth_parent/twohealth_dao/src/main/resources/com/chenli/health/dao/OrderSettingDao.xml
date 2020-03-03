@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.chenli.health.dao.OrderSettingDao">
+    <insert id="add_orderSetting" parameterType="ordersetting">
+        INSERT  into t_ordersetting (orderDate, number, reservations) values (#{orderDate}, #{number}, #{reservations });
+    </insert>
+
+    <select id="find_orderSettingById" parameterType="Date" resultType="long">
+        select count(*) from t_ordersetting where orderDate=#{orderDate}
+    </select>
+
+    <update id="update_orderSetting" parameterType="orderSetting">
+        update t_ordersetting set number = #{number} where orderDate=#{orderDate}
+    </update>
+
+    <select id="find_orderSetting" parameterType="map" resultType="orderSetting">
+        select * from t_ordersetting where orderDate between #{dateBegin} and #{dateEnd}
+    </select>
+
+    <select id="find_orderSettingByDate" resultType="Integer" parameterType="date">
+        select reservations from t_ordersetting where orderDate =#{orderDate}
+    </select>
+
+    <select id="find_orderSettingByDateReturnObject" resultType="orderSetting" parameterType="date">
+        select * from t_ordersetting where orderDate=#{orderDate}
+    </select>
+
+    <select id="update_orderSettingByOrderDate" parameterType="date">
+        update t_ordersetting set reservations=reservations+1 where orderDate=#{orderDate}
+    </select>
+</mapper>

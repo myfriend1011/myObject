@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="twohealth_common" />
+        <module name="twohealth_dao" />
+        <module name="twohealth_interface" />
+        <module name="twohealth_job" />
+        <module name="twohealth_pojo" />
+        <module name="twohealth_service" />
+        <module name="twohealth_web" />
+        <module name="twohealthApp_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="twohealth_common" target="1.8" />
+      <module name="twohealth_dao" target="1.8" />
+      <module name="twohealth_interface" target="1.8" />
+      <module name="twohealth_job" target="1.8" />
+      <module name="twohealth_parent" target="1.8" />
+      <module name="twohealth_pojo" target="1.8" />
+      <module name="twohealth_service" target="1.8" />
+      <module name="twohealth_web" target="1.8" />
+      <module name="twohealthApp_web" target="1.8" />
+      <module name="twohealthpojo" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
